@@ -2,7 +2,7 @@
 This is for materials used in EC204 and my note
 
 
-[Syllabus]()
+[Syllabus](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/SPRING%202020%20MICROECONOMIC%20THEORY%20II.pdf)
 
 -----------------------
 Lecture Note
