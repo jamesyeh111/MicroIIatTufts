@@ -15,6 +15,7 @@ Lecture Note
 [Ch.9 Dynamic Games](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Chapter%209%20UC%20Notes.pdf)
 
 [Ch.11 Externalities](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Chapter%2011%20UC%20Notes.pdf)
+
 -----------------------
 My note
 
