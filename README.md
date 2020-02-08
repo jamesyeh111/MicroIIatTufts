@@ -1,5 +1,5 @@
 # MicroIIatTufts
-This is for materials used in EC204 and my note
+This is for materials used in EC204 and my note  (2020 Spring)
 
 
 [Syllabus](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/SPRING%202020%20MICROECONOMIC%20THEORY%20II.pdf)
@@ -18,6 +18,7 @@ Lecture Note
 
 -----------------------
 My note
+[Games of Imperfect Information and Dynamic Games](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Games%20of%20Incomplete%20Info%20and%20Dynamic%20Game.pdf)
 
 [Belief and Sequantial Rationality](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Belief%20and%20Sequantial%20Rationality.pdf)
 
