@@ -19,7 +19,9 @@ Lecture Note
 -----------------------
 My note
 
-[Ch11 note](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Externality%20Note.pdf)
+[Belief and Sequantial Rationality](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Belief%20and%20Sequantial%20Rationality.pdf)
+
+[Externalities Note](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Externality%20Note.pdf)
 
 
 -----------------------
