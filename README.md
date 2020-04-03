@@ -1,4 +1,4 @@
-# MicroIIatTufts
+# Micro II at Tufts Univ
 This is for materials used in EC204 and my note  (2020 Spring)
 
 
