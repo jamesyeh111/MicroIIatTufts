@@ -23,7 +23,7 @@ My note
 
 [Belief and Sequantial Rationality](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Belief%20and%20Sequantial%20Rationality.pdf)
 
-[Externalities Note](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Externality%20Note.pdf)
+[Externalities and Public Choice](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Externality%20and%20Public%20Choice.pdf)
 
 
 -----------------------
