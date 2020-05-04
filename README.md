@@ -25,6 +25,11 @@ My note
 
 [Externalities and Public Choice](https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Externality%20and%20Public%20Choice.pdf)
 
+[Market Power]
+(https://github.com/jamesyeh111/MicroIIatTufts/blob/master/Ch12_Market_Power.pdf)
+
+[Adverse Selection and Signaling]
+(https://github.com/jamesyeh111/MicroIIatTufts/blob/master/CH13_Adverse_Selection_Signaling.pdf)
 
 -----------------------
 My Homework
